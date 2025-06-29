@@ -1,9 +1,0 @@
-OPENAPI_KEY: "d838deb3436704d2d686f50ec96ddd315a1406ecf94084cf94776e0bdf69c2d7"
-Eleven_Labs: "sk_43ea0ce7b8d3af764cce3fee6efa3df6fdaa710f4ef28d21"
-AMELIA: "ZF6FPAbjXT4488VcRRnw"
-CHRIS: "UEKYgullGqaF0keqT8Bu"
-
-
-tgp_v1_APrkmxfrc8VlU3E9E98q8LeLzVgqaKVPni-wUAIHtTA
-
-sk_b49ec3b07b2bbdab2b3daf7afa0d19b26858671ab9c5d351
